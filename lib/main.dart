@@ -132,7 +132,7 @@ class _MyHomePageState extends State<MyHomePage> {
             FloatingActionButton(
               onPressed: _checkDevices,
               tooltip: 'Check devices',
-              child: Icon(Icons.add),
+              child: Icon(Icons.search),
             ),
           ],
         ));
